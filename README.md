@@ -49,3 +49,11 @@ special( [2, 4, 0, 100, 4, 11, 2602, 36] ) // 11 唯一的奇数
 special( [160, 3, 1719, 19, 11, 13, -21] ) // 160 唯一的偶数
 ```
 [answer](https://github.com/wty521/alg-days/blob/master/week2/w2-3.js)
+
+### w2-4
+写一个函数reverse反转一个数组A 
+要求： 不可以使用Array.reverse 请不要创建新数组
+```js
+reverse([1,3,5,7]) // [7,5,3,1]
+```
+
