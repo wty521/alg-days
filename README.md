@@ -56,4 +56,5 @@ special( [160, 3, 1719, 19, 11, 13, -21] ) // 160 唯一的偶数
 ```js
 reverse([1,3,5,7]) // [7,5,3,1]
 ```
+[answer](https://github.com/wty521/alg-days/blob/master/week2/w2-4.js)
 
