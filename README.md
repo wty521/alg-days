@@ -26,7 +26,7 @@ squareDigits(9119) // 811181
 solution(10) // 23
 solution(16) // 60
 ```
-[answer](https://github.com/wty521/alg-days/blob/master/week2/w2-2.js)
+[answer](https://github.com/wty521/alg-days/blob/master/week2/w2-1.js)
 
 ### w2-2 
 写一个二分查找函数bsearch
@@ -40,6 +40,8 @@ bsearch(A, -1) // 0
 bsearch(A, -10000) // 0
 bsearch(A, 30) // 6
 ```
+[answer](https://github.com/wty521/alg-days/blob/master/week2/w2-2.js)
+
 ### w2-3
 在一个数组中大部分都是奇数(或偶数），只有1个可能是偶数（或奇数），写一个函数special找到这个不一样的值。
 ```js
