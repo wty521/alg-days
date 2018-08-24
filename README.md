@@ -12,7 +12,6 @@ accum("cwAt");    // "C-Ww-Aaa-Tttt"
 [answer](https://github.com/wty521/alg-days/blob/master/week1/w1-1.js)
 
 ### w1-2
-w1-2
 写一个函数求数组的最大值和最小值
 ```js
 highAndLow("1 2 3 4 5"); // return "5 1"
@@ -51,7 +50,6 @@ maskify("64607935616")      == "#######5616"
 maskify("1")                == "1"
 maskify("")                 == ""
 maskify("Skippy")           == "##ippy"
-
 maskify("Nananananananananananananananana Batman!") == "####################################man!"
 ```
 [answer](https://github.com/wty521/alg-days/blob/master/week1/w1-5.js)
