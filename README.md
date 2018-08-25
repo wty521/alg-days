@@ -127,4 +127,6 @@ rotate(A,2) // [6,7,1,2,3,4,5]
 rotate(A,3) // [5,6,7,1,2,3,4]
 ```
 以此类推
+[answer](https://github.com/wty521/alg-days/blob/master/week2/w2-5.js)
+
 

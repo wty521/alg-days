@@ -15,5 +15,5 @@ console.log(rotate([1,2,3,4,5,6,7],1))
 console.log(rotate([1,2,3,4,5,6,7],2))
 console.log(rotate([1,2,3,4,5,6,7],3))
 
-// 第二种
+
 
