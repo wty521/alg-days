@@ -132,5 +132,12 @@ rotate(A,3) // [5,6,7,1,2,3,4]
 实现一个递归版本的reserve函数，反转一个数组     
 [answer](https://github.com/wty521/alg-days/blob/master/week2/w2-6.js)
 
+## week2
+### w3-1
+写一个函数flat展平一个数组
+```js
+flat([1,[2,'a',[5,6]],8]) // [1,2,'a',5,6,8]
+```
+[answer](https://github.com/wty521/alg-days/blob/master/week2/w3-1.js)
 
 
