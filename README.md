@@ -138,6 +138,6 @@ rotate(A,3) // [5,6,7,1,2,3,4]
 ```js
 flat([1,[2,'a',[5,6]],8]) // [1,2,'a',5,6,8]
 ```
-[answer](https://github.com/wty521/alg-days/blob/master/week2/w3-1.js)
+[answer](https://github.com/wty521/alg-days/blob/master/week3/w3-1.js)
 
 
