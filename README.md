@@ -151,4 +151,33 @@ is_prime(22801763489) // true
 ```
 [answer](https://github.com/wty521/alg-days/blob/master/week3/w3-2.js)
 
+### w3-3
+柯里化函数curry是这样一个函数，它将一个接受多参数的函数，转换成为接收连续单参数的高阶函数（可以被连续调用）。
+例如：
+```js
+function _add(a, b, c, d){
+  return a + b + c + d
+}
+const add = curry(add)
+console.log( add(1) ) // 函数
+console.log( add(1)(2) ) // 函数
+console.log( add(1)(2)(3) ) // 函数
+console.log ( add(1)(2)(3)(4) ) // 10
+```
+再比如:
+```js
+const pow = curry(Math.pow)
+pow(10)(2) // 100
+```
+[answer](https://github.com/wty521/alg-days/blob/master/week3/w3-3.js)
+### w3-4
+写一个函数floor_power_of2，求比x小的最大二的整数次幂。
+例如
+```js
+floor_power_of2(64) // 64
+floor_power_of2(63) // 32
+floor_power_of2(33) // 32
+floor_power_of2(32) // 32
+```
+[answer](https://github.com/wty521/alg-days/blob/master/week3/w3-4.js)
 
