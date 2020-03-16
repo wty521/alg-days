@@ -16,7 +16,7 @@
  */
 function sumN (A, n, m, i = 0, decisions = []) {
     if (m === 0) return decisions;
-    if (i === A.length || n === 0) return null;
+    if (i === A.length || n === 0 || m < 0) return null;
 
     return sumN(A, n-1, m-A[i], i+1, decisions.concat(A[i]))
         || sumN(A, n, m, i+1, decisions);
@@ -37,7 +37,7 @@ function sumN (A, n, m) {
             res = decisions.slice();
             return;
         }
-        if (i === A.length || n === 0) return;
+        if (i === A.length || n === 0 || m < 0) return;
 
         decisions.push(A[i]);
         inner(i+1, n-1, m-A[i]);
