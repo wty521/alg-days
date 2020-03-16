@@ -1,21 +1,30 @@
 # 百日算法
-记录每天一道算法题(第十天才开始记录..)
+记录每天一道算法题
 
 ---
 
 restart
 
 ### w3-5
-反转二叉树
+【各大厂】反转二叉树
 ![image](https://github.com/wty521/alg-days/blob/master/image/reverseBTree.png)
 
 [answer](https://github.com/wty521/alg-days/blob/master/week3/w3-5.js)
 
 ### w3-6
-qs.parse 解析url params
+【头条阿里】qs.parse 解析url params
 
 
 [answer](https://github.com/wty521/alg-days/blob/master/week3/w3-6.js)
+
+
+### w3-7
+【头条】取n个数字合为m
+```
+sumN([1,3,8,5,2], 2, 11) // [3, 8]
+sumN([1,3,8,5,2], 3, 6) // [1,3,2]
+```
+[answer](https://github.com/wty521/alg-days/blob/master/week3/w3-7.js)
 
 ---
 ---
