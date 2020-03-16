@@ -89,9 +89,9 @@ solution(16) // 60
 ```
 [answer](https://github.com/wty521/alg-days/blob/master/week2/w2-1.js)
 
-### w2-2 
+### w2-2
 写一个二分查找函数bsearch
-A 是一个已排序的数组，x 是目标值。      
+A 是一个已排序的数组，x 是目标值。
 如果找到目标值，返回目标值在数组中的序号。 如果没有找到目标值，返回目标值应该被插入的位置 比如数组: A = 3,5,7,13,22,25
 ```js
 bsearch(A, 5) // 1
@@ -112,7 +112,7 @@ special( [160, 3, 1719, 19, 11, 13, -21] ) // 160 唯一的偶数
 [answer](https://github.com/wty521/alg-days/blob/master/week2/w2-3.js)
 
 ### w2-4
-写一个函数reverse反转一个数组A 
+写一个函数reverse反转一个数组A
 要求： 不可以使用Array.reverse 请不要创建新数组
 ```js
 reverse([1,3,5,7]) // [7,5,3,1]
@@ -126,10 +126,10 @@ rotate(A,1) // [7,1,2,3,4,5,6]
 rotate(A,2) // [6,7,1,2,3,4,5]
 rotate(A,3) // [5,6,7,1,2,3,4]
 ```
-以此类推     
+以此类推
 [answer](https://github.com/wty521/alg-days/blob/master/week2/w2-5.js)
 ### w2-6
-实现一个递归版本的reserve函数，反转一个数组     
+实现一个递归版本的reserve函数，反转一个数组
 [answer](https://github.com/wty521/alg-days/blob/master/week2/w2-6.js)
 
 ## week2
@@ -180,4 +180,16 @@ floor_power_of2(33) // 32
 floor_power_of2(32) // 32
 ```
 [answer](https://github.com/wty521/alg-days/blob/master/week3/w3-4.js)
+
+
+---
+---
+restart
+
+### w3-5
+反转二叉树
+![image](https://github.com/wty521/alg-days/reverseBTree.png)
+
+
+
 
