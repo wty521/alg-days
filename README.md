@@ -1,6 +1,25 @@
 # 百日算法
 记录每天一道算法题(第十天才开始记录..)
 
+---
+
+restart
+
+### w3-5
+反转二叉树
+![image](https://github.com/wty521/alg-days/blob/master/image/reverseBTree.png)
+
+[answer](https://github.com/wty521/alg-days/blob/master/week3/w3-5.js)
+
+### w3-6
+qs.parse 解析url params
+
+
+[answer](https://github.com/wty521/alg-days/blob/master/week3/w3-6.js)
+
+---
+---
+
 ## week1
 ### w1-1
 观察下面的规律，写一个函数accum
@@ -182,15 +201,7 @@ floor_power_of2(32) // 32
 [answer](https://github.com/wty521/alg-days/blob/master/week3/w3-4.js)
 
 
----
----
-restart
 
-### w3-5
-反转二叉树
-![image](https://github.com/wty521/alg-days/blob/master/image/reverseBTree.png)
-
-[answer](https://github.com/wty521/alg-days/blob/master/week3/w3-5.js)
 
 
 
