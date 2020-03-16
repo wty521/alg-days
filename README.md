@@ -188,7 +188,7 @@ restart
 
 ### w3-5
 反转二叉树
-![image](https://github.com/wty521/alg-days/reverseBTree.png)
+![image](https://github.com/wty521/alg-days/blob/master/image/reverseBTree.png)
 
 [answer](https://github.com/wty521/alg-days/blob/master/week3/w3-5.js)
 
