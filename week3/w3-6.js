@@ -56,6 +56,6 @@ function deep_set (acc, path, value) {
 
 console.log(parse('a=1&b=2&c=5'));
 console.log(parse('a&b&c'));
-console.log(parse('a[name]=wty&a[age]=27&c=why')); // not work
-console.log(parse('a[0]=1&a[1]=2')); // not work
-console.log(parse('color=Deep%20Blue')); // not work
+console.log(parse('a[name]=wty&a[age]=27&c=why'));
+console.log(parse('a[0]=1&a[1]=2'));
+console.log(parse('color=Deep%20Blue'));
