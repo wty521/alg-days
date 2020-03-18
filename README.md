@@ -26,6 +26,13 @@ sumN([1,3,8,5,2], 3, 6) // [1,3,2]
 ```
 [answer](https://github.com/wty521/alg-days/blob/master/week3/w3-7.js)
 
+
+### w4-1
+求数的轮廓
+求二叉树从左侧看的轮廓，如图，返回[1,5,4,8]。求每行最大值，返回[1,9,7,8]
+![image](https://github.com/wty521/alg-days/blob/master/image/BTree.png)
+
+[answer](https://github.com/wty521/alg-days/blob/master/week5/w4-1.js)
 ---
 ---
 
