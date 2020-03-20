@@ -39,6 +39,13 @@ sumN([1,3,8,5,2], 3, 6) // [1,3,2]
 
 [answer](https://github.com/wty521/alg-days/blob/master/week4/w4-2.js)
 
+### w4-3
+![image](https://github.com/wty521/alg-days/blob/master/image/w4-3.png)
+
+4*3的网格，从右上点到左下点(A -> B),只能向右或向下，共有多少种路线。
+
+[answer](https://github.com/wty521/alg-days/blob/master/week4/w4-3.js)
+
 ---
 ---
 
