@@ -33,6 +33,12 @@ sumN([1,3,8,5,2], 3, 6) // [1,3,2]
 ![image](https://github.com/wty521/alg-days/blob/master/image/BTree.png)
 
 [answer](https://github.com/wty521/alg-days/blob/master/week4/w4-1.js)
+
+### w4-2
+用两个栈实现队列
+
+[answer](https://github.com/wty521/alg-days/blob/master/week4/w4-2.js)
+
 ---
 ---
 
