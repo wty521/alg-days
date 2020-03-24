@@ -5,6 +5,15 @@
 
 restart
 
+## basic
+
+[二分查找](https://github.com/wty521/alg-days/blob/master/basic/bsearch.js)
+
+[插入排序](https://github.com/wty521/alg-days/blob/master/basic/insert.js)
+
+[冒泡排序](https://github.com/wty521/alg-days/blob/master/basic/bubble.js)
+----
+
 ### w3-5
 【各大厂】反转二叉树
 ![image](https://github.com/wty521/alg-days/blob/master/image/reverseBTree.png)
